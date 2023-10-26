@@ -30,15 +30,15 @@ But how do they create this chances? Where do their passes come from? How they p
 
 To answer these questions I go deeper in the analysis and I get the location of the passes and the shots and I plot them in a half football pitch:
 
-![Alt text](img/PlotPasses_Harry_Kane.png)
+<img src="/img/PlotPasses_Harry_Kane.png" alt="image" width="800" height="auto">
 
 For exemple, here I have the passes from Harry Kane that leads to a shot or goal. I can observe that english strikers have been very effective on shots coming from Harry Kane's passes because of the difference between goals and xGs. On the other hand, I can see that harry kane often goes down to receive as a link between midfield and forwards. We all know how completely is Harry Kane and we know that he can score easily but also we can see he is a modern nine that goes down a bit in order to link passes in forward positions.
 
-![Alt text](img/PlotPasses_Ousmane_Dembélé.png)
+<img src="/img/PlotPasses_Ousmane_Dembélé.png" alt="image" width="800" height="auto">
 
 Another example is Ousmane Dembélé. I can see that he plays in the right wing position and is where he creates most of the plays. In this plot, I can observe that while he has a high xG and 2 assists, he generated a small xG compared to the amount of crosses he made. In conclusion, he is comfortable in the right wing position but I think the quality of his passes were not good.
 
-<img src="/img/PlotPasses_Theo_Bernard_François_Hernández.png" alt="image" width="600" height="auto">
+<img src="/img/PlotPasses_Theo_Bernard_François_Hernández.png" alt="image" width="800" height="auto">
 
 And last but not least Theo Hernández. He is an offensive left back from France. I can see he is quite good in long range passes and he reaches the goal line picking assists.
 

@@ -28,7 +28,7 @@ In this plot I focus on looking at the overall performance of each player per pl
 
 But how do they create this chances? Where do their passes come from? How they play?
 
-To answer these questions I go deeper in the analysis and I get the location of the passes and the shots and I plot them in a half football pitch their plays:
+To answer these questions I go deeper in the analysis and I get the location of the passes and the shots and I plot them in a half football pitch:
 
 ![Alt text](img/PlotPasses_Harry_Kane.png)
 

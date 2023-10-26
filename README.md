@@ -28,34 +28,30 @@ In this plot I focus on looking at the overall performance of each player per pl
 
 But how do they create this chances? Where do their passes come from? How they play?
 
-To answer these questions I go deeper in the analysis and I get the location of the passes and the shots and I plot in a half football pitch their plays:
+To answer these questions I go deeper in the analysis and I get the location of the passes and the shots and I plot them in a half football pitch their plays:
 
-![Alt text](img/PlotPasses_Harry Kane.png)
+![Alt text](img/PlotPasses_Harry_Kane.png)
 
+For exemple, here I have the passes from Harry Kane that leads to a shot or goal. I can observe that english strikers have been very effective on shots coming from Harry Kane's passes because of the difference between goals and xGs. On the other hand, I can see that harry kane often goes down to receive as a link between midfield and forwards. We all know how completely is Harry Kane and we know that he can score easily but also we can see he is a modern nine that goes down a bit in order to link passes in forward positions.
 
+![Alt text](img/PlotPasses_Ousmane_Dembélé.png)
 
+Another example is Ousmane Dembélé. I can see that he plays in the right wing position and is where he creates most of the plays. In this plot, I can observe that while he has a high xG and 2 assists, he generated a small xG compared to the amount of crosses he made. In conclusion, he is comfortable in the right wing position but I think the quality of his passes were not good.
+
+![Alt text](img/PlotPasses_Theo_Bernard_François_Hernández.png)
+
+And last but not least Theo Hernández. He is an offensive left back from France. I can see he is quite good in long range passes and he reaches the goal line picking assists.
 
 ## Conclusions
-In conclusion, in this project I applied K-means clustering successfully and I defined new offensive play-types based in data. After that, I analysed my clustering and made a few plots that helped to understand the modern era of basketball and to highlight different players that without the data we would not pay attention to at first glance, like Meyers Leonard.
+In conclusion,this project allows us to identify the best teams in set pieces and the key players who have a significant influence in regular gameplays. This analysis provides information to better prepare defence at set pieces against certain teams and to change the strategy if necessary. In addition, it also helps to be aware of important players of the other teams and their attacking styles of play such as the zone they play in and the passes they usually make.
 
-Finally, I provided a practical application by suggesting potential player acquisitions to replace players with similar playing styles. This aspect contributes significantly to strategic decision-making for NBA teams looking to bolster their rosters with players who can seamlessly fit into existing systems.
-
-This is my first project in Sports Analytics and I have enjoyed it and I hope to continue learning and putting into practice all the knowledge I am acquiring.
-
-## Suggestions for improvement
-
-In this project I used data from 2018 & 2019 about possesion percentatges in various play-types. To enhance the clustering analysis and achieve better differentiation among player clusters, I could consider incorporating additional data sources. Data like player physical attributes or stats of the game could provide a more comprehensive understanding of player profiles and playing styles. What's more, I could go deeper into the analysis and study more the differents defined play-types.
-
+This is my one of my first project in Sports Analytics and I have enjoyed it and I hope to continue learning and putting into practice all the knowledge I am acquiring.
 
 ## Reference
 
-https://www.nba.com/stats/players/transition NBA Stats
+https://statsbomb.com/what-we-do/hub/free-data/
 
-https://www.basketball-reference.com/ Basketball Reference
-
-https://medium.com/playing-numbers/beyond-the-arch-introducing-a-new-way-to-understand-the-game-92c30b1a8599 by Brennan Ruby
-
-https://towardsdatascience.com/redefining-nba-player-classifications-using-clustering-36a348fa54a8 Ahmed Jyad
+![Alt text](img/statsbomblogo.jpg){width=50%}
 
 ## Contributors
 

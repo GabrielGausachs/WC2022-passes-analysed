@@ -51,7 +51,7 @@ This is my one of my first project in Sports Analytics and I have enjoyed it and
 
 https://statsbomb.com/what-we-do/hub/free-data/
 
-![Alt text](img/statsbomblogo.jpg){width=50%}
+<img src="/img/statsbomblogo.jpg" alt="image" width="50" height="auto">
 
 ## Contributors
 

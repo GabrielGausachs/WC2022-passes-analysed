@@ -7,7 +7,7 @@ Football is a sport that has been played for centuries, but it's only in recent 
 ## The data
 StatsBomb are committed to sharing new data and research publicly to enhance understanding of the game of Football. Therefore they have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics. Here, I use statsbombpy library to acces to the World Cup 2022 data. In this data, I can find from results and line-ups to locations of the passes and the shots. In this project, I'll focus on passes and shots by teams and players.
 
-## Best teams in terms of set pieces.
+## Best teams in terms of set pieces
 First of all, after reading the data of every match in the World Cup, I create two dataframes: **passes** and **shots**. From the passes dataframe, I select only passes that lead to shot or goal and that comes from set pieces. In this dataframe I have a column named *pass_assisted_shot_id* which relates to the id of the shot, so I can identify the shot coming from a specific pass.
 
 The next step is to get the **expected goal** of every identified shot. Then, I group by teams and I get the total number of passes from setpieces that lead to a shot or goal and the total expected goals from these shots. Finally, I divide them to obtain the xG per pass and select only teams that made more than 9 passes.

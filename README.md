@@ -38,7 +38,7 @@ For exemple, here I have the passes from Harry Kane that leads to a shot or goal
 
 Another example is Ousmane Dembélé. I can see that he plays in the right wing position and is where he creates most of the plays. In this plot, I can observe that while he has a high xG and 2 assists, he generated a small xG compared to the amount of crosses he made. In conclusion, he is comfortable in the right wing position but I think the quality of his passes were not good.
 
-<img src="/img/PlotPasses_Theo_Bernard_François_Hernández.png" alt="image" width="300" height="auto">
+<img src="/img/PlotPasses_Theo_Bernard_François_Hernández.png" alt="image" width="600" height="auto">
 
 And last but not least Theo Hernández. He is an offensive left back from France. I can see he is quite good in long range passes and he reaches the goal line picking assists.
 

@@ -51,7 +51,7 @@ This is my one of my first project in Sports Analytics and I have enjoyed it and
 
 https://statsbomb.com/what-we-do/hub/free-data/
 
-<img src="/img/statsbomblogo.jpg" alt="image" width="50" height="auto">
+<img src="/img/statsbomblogo.jpg" alt="image" width="120" height="auto">
 
 ## Contributors
 
